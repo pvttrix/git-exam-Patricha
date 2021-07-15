@@ -1,0 +1,6 @@
+*.psd
+*.zip
+*-assets
+node_modules
+anchor.js
+package-lock.json
